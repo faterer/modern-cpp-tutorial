@@ -2,14 +2,10 @@
 
 # C++11/14/17 On the Fly
 
-![](https://img.shields.io/badge/version-v2-green.svg) ![](https://img.shields.io/badge/language-English-blue.svg) [![](https://img.shields.io/badge/$-donate-ff69b4.svg)](./assets/donate.md) [![](https://img.shields.io/badge/chat-community-667ed5.svg)](./assets/community.md) 
+![](https://img.shields.io/badge/version-v2-green.svg) [![](https://img.shields.io/badge/language-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg)](./README.md) [![](https://img.shields.io/badge/language-English-blue.svg)](./README-en-us.md) [![](https://img.shields.io/badge/$-donate-ff69b4.svg)](./assets/donate.md) [![](https://img.shields.io/badge/chat-community-667ed5.svg)](./assets/community.md) 
+
 
 > This book is adapting to C++17 and translating to English.
-
-## Languages
-
-- 🇨🇳 [简体中文](./README.md)
-- 🇬🇧 English
 
 ## Purpose
 
@@ -32,8 +28,8 @@ In addition, The author would like to encourage that readers should be able to u
 You can choose from the following reading methods:
 
 - [GitHub Online](./book/en-us/toc.md)
-- [PDF document]
-- [Website]
+- [PDF document](./pdf/en-us/modern-cpp-tutorial.pdf)
+- [Website](https://changkun.de/modern-cpp)
 
 ## Code
 
@@ -43,11 +39,15 @@ Each chapter of this book has a lot of code. If you encounter problems when writ
 
 There are few exercises At the end of each chapter of the book. It is for testing whether you can use the knowledge points in the current chapter. You can find the possible answer to the problem from [here](./exercise). The folder name is the chapter number.
 
+## Website
+
+The source code of the [website](https://changkun.de/modern-cpp) of this book can be found [here](./website), which is built by [hexo](https://hexo.io) and [vuejs](https://vuejs.org). The website provides you another way of reading the book, it is also adapts to mobile.
+
 ## Acknowledgements
 
 This book is originally written in Chinese.
 
-The author has limited time and language skills. If readers find any mistakes of the book or any language improvements, please feel free to open an [issue](https://github.com/changkun/modern-cpp-tutorial/issues).
+The author has limited time and language skills. If readers find any mistakes of the book or any language improvements, please feel free to open an [Issue](https://github.com/changkun/modern-cpp-tutorial/issues) or start a [Pull request](https://github.com/changkun/modern-cpp-tutorial/pulls).
 
 ## Licenses
 
